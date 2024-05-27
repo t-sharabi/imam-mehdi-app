@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "aldrws_w_almhadrats",
+  "info": {
+    "singularName": "aldrws-w-almhadrat",
+    "pluralName": "aldrws-w-almhadrats",
+    "displayName": "الدروس و المحاضرات"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    },
+    "video": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

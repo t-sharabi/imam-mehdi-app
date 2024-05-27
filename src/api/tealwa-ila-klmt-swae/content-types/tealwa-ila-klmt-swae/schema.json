@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tealwa_ila_klmt_swaes",
+  "info": {
+    "singularName": "tealwa-ila-klmt-swae",
+    "pluralName": "tealwa-ila-klmt-swaes",
+    "displayName": "تعالوا إلى كلمة سواء"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    }
+  }
+}

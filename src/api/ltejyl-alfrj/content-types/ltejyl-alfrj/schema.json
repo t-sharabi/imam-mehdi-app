@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ltejyl_alfrjs",
+  "info": {
+    "singularName": "ltejyl-alfrj",
+    "pluralName": "ltejyl-alfrjs",
+    "displayName": "لتعجيل الفرج"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    }
+  }
+}

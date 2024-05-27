@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "qraeat_mhdwyts",
+  "info": {
+    "singularName": "qraeat-mhdwyt",
+    "pluralName": "qraeat-mhdwyts",
+    "displayName": "قراءات مهدوية"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "blocks"
+    }
+  }
+}

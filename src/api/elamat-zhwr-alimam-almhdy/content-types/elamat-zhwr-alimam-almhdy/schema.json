@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "elamat_zhwr_alimam_almhdies",
+  "info": {
+    "singularName": "elamat-zhwr-alimam-almhdy",
+    "pluralName": "elamat-zhwr-alimam-almhdies",
+    "displayName": "علامات ظهور الإمام المهدي"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    }
+  }
+}

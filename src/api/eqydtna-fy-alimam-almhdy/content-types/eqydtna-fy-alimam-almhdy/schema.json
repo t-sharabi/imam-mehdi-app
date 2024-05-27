@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "eqydtna_fy_alimam_almhdies",
+  "info": {
+    "singularName": "eqydtna-fy-alimam-almhdy",
+    "pluralName": "eqydtna-fy-alimam-almhdies",
+    "displayName": "عقيدتنا في الإمام المهدي"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    }
+  }
+}

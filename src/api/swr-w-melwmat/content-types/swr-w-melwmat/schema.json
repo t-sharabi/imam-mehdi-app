@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "swr_w_melwmats",
+  "info": {
+    "singularName": "swr-w-melwmat",
+    "pluralName": "swr-w-melwmats",
+    "displayName": "صور و معلومات"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

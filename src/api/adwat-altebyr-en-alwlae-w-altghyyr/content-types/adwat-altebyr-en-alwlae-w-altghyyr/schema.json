@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "adwat_altebyr_en_alwlae_w_altghyyrs",
+  "info": {
+    "singularName": "adwat-altebyr-en-alwlae-w-altghyyr",
+    "pluralName": "adwat-altebyr-en-alwlae-w-altghyyrs",
+    "displayName": "أدوات التعبير عن الولاء و التغيير"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    }
+  }
+}
